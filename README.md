@@ -1,4 +1,4 @@
-# RMT_blacklist
+# Abuse IP blacklist
 Abusive IP blacklist gathered on my servers and routers
 
 These lists (1-day, 7-day and 30-day) are here mainly for my personal use, gathered by my servers and distributed back to exchange abusive IP blacklists between firewalls. These lists are updated once a day.
