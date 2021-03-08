@@ -17,5 +17,6 @@ Future
 ---
 I'm thinking about spliting list depending on reason of abuse.
 
+![https://img.shields.io/github/repo-size/remetremet/Abuse-IP-blacklist]
 
 Use it if like it.
