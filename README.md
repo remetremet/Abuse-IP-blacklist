@@ -10,16 +10,18 @@ There are no way to "whitelist" or to remove from the list - the only way to rem
 
 Location
 ---
-All the servers is Czech Republic, Europe.
+All the servers is in the Czech Republic, Europe.
 
 
 Future
 ---
- - maybe spliting lists depending on reason of abuse
+ - maybe spliting lists based on reason of abuse
 
 
-Use it if like it.
+---
 
 ![license-image](https://img.shields.io/github/license/remetremet/Abuse-IP-blacklist?style=plastic)
 ![last-commit-image](https://img.shields.io/github/last-commit/remetremet/Abuse-IP-blacklist?style=plastic)
 ![repo-size-image](https://img.shields.io/github/repo-size/remetremet/Abuse-IP-blacklist?style=plastic)
+
+Use it if you like it
